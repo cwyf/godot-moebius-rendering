@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot 莫比斯全局美术改造"
+  short_description: "按模型类别重构有机形态，统一色彩、线稿与光照，系统改造游戏场景"
+  default_prompt: "使用 $godot-moebius-rendering，在约定副本中完成全局美术改造：按参考重构机械模型，统一底色、线稿和光照，实机对照返修后推广到全项目；交付实际结果与未解决项，不停在方案或第一版。"
